@@ -91,7 +91,7 @@ Each starter pack's README has step-by-step macOS, Linux, and Windows instructio
 
 - 🎓 [**Learn CALM**](https://learning.rasa.com/rasa-pro/) — a free introductory course to Rasa's Conversational AI with Language Models framework
 - 📖 [**Read the docs**](https://rasa.com/docs/) — guides, references, and tutorials
-- 🧩 [**Explore Rasa Studio**](https://rasa.com/product/rasa-studio/) — build and refine assistants visually
+- 🏛️ [**Rasa University**](https://rasa.com/university) — courses and certifications to level up your Rasa skills
 
 ---
 
