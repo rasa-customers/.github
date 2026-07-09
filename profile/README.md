@@ -9,7 +9,7 @@
 
 ### Production-ready AI assistants you can run in minutes.
 
-Open-source starter packs built on Rasa's **[CALM](https://rasa.com/docs/)** framework —
+Open-source starter packs built on Rasa's **[CALM](https://rasa.com/docs/learn/concepts/calm/)** framework —
 launch one in your browser, fork it, and make it your own.
 
 <br>
