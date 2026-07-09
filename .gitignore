@@ -1,0 +1,11 @@
+# Superpowers subagent-driven-development scratch (ledger, briefs, diffs)
+.superpowers/
+
+# Local planning notes (personal brainstorming — not for the public repo)
+docs/
+
+# Playwright MCP browser session scratch
+.playwright-mcp/
+
+# macOS
+.DS_Store
