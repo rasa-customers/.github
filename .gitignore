@@ -7,5 +7,9 @@ docs/
 # Playwright MCP browser session scratch
 .playwright-mcp/
 
+# Local research/analytics exports (org traffic data — not for the public repo).
+# Track the pull script; ignore the CSV data it produces.
+research/*.csv
+
 # macOS
 .DS_Store
