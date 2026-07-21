@@ -9,7 +9,7 @@
 
 ### Production-ready AI assistants you can run in minutes.
 
-Open-source starter packs built on Rasa's **[CALM](https://rasa.com/docs/learn/concepts/calm/)** framework —
+Open-source starter packs built on **[Rasa's Framework](https://rasa.com/docs/learn/concepts/calm/)** —
 launch one in your browser, fork it, and make it your own.
 
 <br>
@@ -29,7 +29,7 @@ launch one in your browser, fork it, and make it your own.
 2. **Launch it instantly** — click **⚡ Launch on Hello Rasa** to run the assistant right in your browser, no install required. Prefer local? Every pack also runs locally with Python or Docker (see the pack's README).
 3. **Fork & customize** — copy the repo and shape it into your own assistant.
 
-> New to Rasa? The [Rasa Pro Developer Edition](https://rasa.com/docs/rasa-pro/developer-edition/) is **free** and runs CALM assistants locally on your laptop.
+> New to Rasa? The [Rasa Developer Edition](https://rasa.com/docs/rasa-pro/developer-edition/) is **free** and runs Rasa assistants locally on your laptop.
 
 ---
 
@@ -79,8 +79,8 @@ Guide customers to **file a claim**, **check claim status**, and answer **covera
 
 To run a starter pack locally you'll need:
 
-- 🔑 A **free [Rasa Pro Developer Edition license](https://rasa.com/docs/rasa-pro/developer-edition/)**
-- 🤖 An **OpenAI API key** (the default model provider — CALM supports other LLMs too)
+- 🔑 A **free [Rasa Developer Edition license](https://rasa.com/docs/rasa-pro/developer-edition/)**
+- 🤖 An **OpenAI API key** (the default model provider — Rasa supports other LLMs too)
 - 🐍 **Python** *or* 🐳 **[Docker](https://docs.docker.com/get-started/)** to run it locally — *or skip both and use [Hello Rasa](https://hello.rasa.com/) in the browser*
 
 Each starter pack's README has step-by-step macOS, Linux, and Windows instructions.
@@ -89,9 +89,8 @@ Each starter pack's README has step-by-step macOS, Linux, and Windows instructio
 
 ## 📚 New to Rasa?
 
-- 🎓 [**Learn CALM**](https://learning.rasa.com/rasa-pro/) — a free introductory course to Rasa's Conversational AI with Language Models framework
 - 📖 [**Read the docs**](https://rasa.com/docs/) — guides, references, and tutorials
-- 🏛️ [**Rasa University**](https://rasa.com/university) — courses and certifications to level up your Rasa skills
+- 🎓 [**Rasa University**](https://hellorasa.info/45cWitR) — courses and certifications to level up your Rasa skills
 
 ---
 
