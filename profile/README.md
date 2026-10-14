@@ -15,7 +15,7 @@ launch one in your browser, fork it, and make it your own.
 <br>
 
 [![Docs](https://img.shields.io/badge/Docs-181210?style=for-the-badge&logo=readthedocs&logoColor=FAF6F0)](https://rasa.com/docs/#gh-light-mode-only)[![Docs](https://img.shields.io/badge/Docs-FAF6F0?style=for-the-badge&logo=readthedocs&logoColor=181210)](https://rasa.com/docs/#gh-dark-mode-only)
-[![Developer Edition](https://img.shields.io/badge/Developer%20Edition-Free-E85A91?style=for-the-badge&labelColor=181210)](https://rasa.com/docs/rasa-pro/developer-edition/#gh-light-mode-only)[![Developer Edition](https://img.shields.io/badge/Developer%20Edition-Free-E85A91?style=for-the-badge&labelColor=FAF6F0)](https://rasa.com/docs/rasa-pro/developer-edition/#gh-dark-mode-only)
+[![Developer Edition](https://img.shields.io/badge/Developer%20Edition-Free-E85A91?style=for-the-badge&labelColor=181210)](https://rasa.com/rasa-pro-developer-edition-license-key-request#gh-light-mode-only)[![Developer Edition](https://img.shields.io/badge/Developer%20Edition-Free-E85A91?style=for-the-badge&labelColor=FAF6F0)](https://rasa.com/rasa-pro-developer-edition-license-key-request#gh-dark-mode-only)
 [![Learning](https://img.shields.io/badge/Learning-181210?style=for-the-badge&logo=bookstack&logoColor=FAF6F0)](https://learning.rasa.com/rasa-pro/#gh-light-mode-only)[![Learning](https://img.shields.io/badge/Learning-FAF6F0?style=for-the-badge&logo=bookstack&logoColor=181210)](https://learning.rasa.com/rasa-pro/#gh-dark-mode-only)
 [![Community](https://img.shields.io/badge/Discord-181210?style=for-the-badge&logo=discord&logoColor=FAF6F0)](https://discord.gg/rwhHg9PZBv#gh-light-mode-only)[![Community](https://img.shields.io/badge/Discord-FAF6F0?style=for-the-badge&logo=discord&logoColor=181210)](https://discord.gg/rwhHg9PZBv#gh-dark-mode-only)
 
@@ -29,7 +29,7 @@ launch one in your browser, fork it, and make it your own.
 2. **Launch it instantly** — click **⚡ Launch on Hello Rasa** to run the assistant right in your browser, no install required. Prefer local? Every pack also runs locally with Python or Docker (see the pack's README).
 3. **Fork & customize** — copy the repo and shape it into your own assistant.
 
-> New to Rasa? The [Rasa Developer Edition](https://rasa.com/docs/rasa-pro/developer-edition/) is **free** and runs Rasa assistants locally on your laptop.
+> New to Rasa? The [Rasa Developer Edition](https://rasa.com/rasa-pro-developer-edition-license-key-request) is **free** and runs Rasa assistants locally on your laptop.
 
 ---
 
@@ -85,7 +85,7 @@ Guide customers to **file a claim**, **check claim status**, and answer **covera
 
 To run a starter pack locally you'll need:
 
-- 🔑 A **free [Rasa Developer Edition license](https://rasa.com/docs/rasa-pro/developer-edition/)**
+- 🔑 A **free [Rasa Developer Edition license](https://rasa.com/rasa-pro-developer-edition-license-key-request)**
 - 🤖 An **OpenAI API key** (the default model provider — Rasa supports other LLMs too)
 - 🐍 **Python** *or* 🐳 **[Docker](https://docs.docker.com/get-started/)** to run it locally — *or skip both and use [Hello Rasa](https://hello.rasa.com/) in the browser*
 
