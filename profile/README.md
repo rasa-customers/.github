@@ -5,109 +5,155 @@
   <img alt="Rasa" src="./assets/rasa-logo-horizontal-ink.svg" width="220">
 </picture>
 
-# Customer Starter Packs
+# Build your next agent with Rasa Mantle
 
-### Production-ready AI assistants you can run in minutes.
+### Start with an example. Make it your own.
 
-Open-source starter packs built on **[Rasa's Framework](https://rasa.com/docs/learn/concepts/calm/)** —
-launch one in your browser, fork it, and make it your own.
+Explore starter packs and example agents for **chat and voice**.<br>
+Build with natural-language skills, connect your tools, and add control where it matters.
 
 <br>
 
-[![Docs](https://img.shields.io/badge/Docs-181210?style=for-the-badge&logo=readthedocs&logoColor=FAF6F0)](https://rasa.com/docs/#gh-light-mode-only)[![Docs](https://img.shields.io/badge/Docs-FAF6F0?style=for-the-badge&logo=readthedocs&logoColor=181210)](https://rasa.com/docs/#gh-dark-mode-only)
-[![Developer Edition](https://img.shields.io/badge/Developer%20Edition-Free-E85A91?style=for-the-badge&labelColor=181210)](https://rasa.com/rasa-pro-developer-edition-license-key-request#gh-light-mode-only)[![Developer Edition](https://img.shields.io/badge/Developer%20Edition-Free-E85A91?style=for-the-badge&labelColor=FAF6F0)](https://rasa.com/rasa-pro-developer-edition-license-key-request#gh-dark-mode-only)
-[![Learning](https://img.shields.io/badge/Learning-181210?style=for-the-badge&logo=bookstack&logoColor=FAF6F0)](https://learning.rasa.com/rasa-pro/#gh-light-mode-only)[![Learning](https://img.shields.io/badge/Learning-FAF6F0?style=for-the-badge&logo=bookstack&logoColor=181210)](https://learning.rasa.com/rasa-pro/#gh-dark-mode-only)
-[![Community](https://img.shields.io/badge/Discord-181210?style=for-the-badge&logo=discord&logoColor=FAF6F0)](https://discord.gg/rwhHg9PZBv#gh-light-mode-only)[![Community](https://img.shields.io/badge/Discord-FAF6F0?style=for-the-badge&logo=discord&logoColor=181210)](https://discord.gg/rwhHg9PZBv#gh-dark-mode-only)
+[![Start building](https://img.shields.io/badge/Start_building-E85A91?style=for-the-badge&labelColor=181210)](https://rasa.community/quickstart/)
+[![Explore the showcase](https://img.shields.io/badge/Explore_the_showcase-181210?style=for-the-badge)](https://rasa.community/showcase/)
+[![Mantle docs](https://img.shields.io/badge/Mantle_docs-524A43?style=for-the-badge)](https://mantle.rasa.com/)
+
+<br>
+
+[Get a free Developer Edition license](https://rasa.com/rasa-pro-developer-edition-license-key-request) · [Join Rasa Community](https://rasa.community/join/)
 
 </div>
 
 ---
 
-## ⚡ Get running in ~60 seconds
+## Choose your starting point
 
-1. **Pick a starter pack** from the industry cards below.
-2. **Launch it instantly** — click **⚡ Launch on Hello Rasa** to run the assistant right in your browser, no install required. Prefer local? Every pack also runs locally with Python or Docker (see the pack's README).
-3. **Fork & customize** — copy the repo and shape it into your own assistant.
+| Your goal | Start here |
+| --- | --- |
+| Run your first Mantle agent | **[Community quickstart](https://rasa.community/quickstart/)** — run a local example and inspect its tool calls. |
+| Build a new Mantle project | **[Mantle starter pack](https://github.com/RasaHQ/rasa-community-resources/tree/main/starter-pack)** — scaffolding, coding-agent skills, and configuration checks. |
+| Explore an industry use case | **[Featured Mantle examples](#featured-mantle-examples)** — find a starting point for your customer experience. |
+| Browse more builds | **[Community showcase](https://rasa.community/showcase/)** — discover examples across voice, tools, and deployment. |
 
-> New to Rasa? The [Rasa Developer Edition](https://rasa.com/rasa-pro-developer-edition-license-key-request) is **free** and runs Rasa assistants locally on your laptop.
+## Why Mantle?
 
----
+[**Mantle**](https://mantle.rasa.com/) is the orchestrator at the heart of the Rasa Platform. It selects skills, calls tools, and manages the conversation.
 
-## 🏭 Pick your industry
+- **Start with natural language.** Describe what your agent should do in skills.
+- **Add control as you build.** Introduce tool constraints and ordered steps where the task needs them.
+- **Build for chat and voice.** Reuse skills across channels and tune the voice experience.
+
+## Featured Mantle examples
+
+These examples are linked from [Rasa Community](https://rasa.community/showcase/), with source code in the shared [`RasaHQ/rasa-community-resources`](https://github.com/RasaHQ/rasa-community-resources) repository.
 
 <table>
 <tr>
-<td align="center" valign="top" width="33%">
+<td valign="top" width="33%">
 
-<img alt="Insurance" src="https://img.shields.io/badge/INSURANCE-9FDBD0?style=flat-square">
+### Insurance
+**Poly**
 
-### 🛡️ Insurance
+Explore claim intake, policy questions, and inspection scheduling with voice.
 
-Guide customers to **file a claim**, **check claim status**, and answer **coverage questions** across home & auto.
-
-<a href="https://hello.rasa.com/go?repo=rasa-customers/starterpack-insurance-en"><img alt="Launch on Hello Rasa" src="https://img.shields.io/badge/%E2%9A%A1%20Launch%20on%20Hello%20Rasa-E85A91?style=for-the-badge"></a>
-
-[![View code](https://img.shields.io/badge/View%20code-181210?style=for-the-badge&logo=github&logoColor=FAF6F0)](https://github.com/rasa-customers/starterpack-insurance-en#gh-light-mode-only)[![View code](https://img.shields.io/badge/View%20code-FAF6F0?style=for-the-badge&logo=github&logoColor=181210)](https://github.com/rasa-customers/starterpack-insurance-en#gh-dark-mode-only)
+[**Explore the code →**](https://github.com/RasaHQ/rasa-community-resources/tree/main/examples/mantle-voice-insurance-skills)
 
 </td>
-<td align="center" valign="top" width="33%">
+<td valign="top" width="33%">
 
-<img alt="Finance" src="https://img.shields.io/badge/FINANCE-BBC9FF?style=flat-square">
+### Banking
+**Rasano**
 
-### 🏦 Retail Banking
+Explore account balances, transfers, payees, and card blocking with sample accounts.
 
-**Transfer money**, **check balances**, **manage payees**, and **block cards** — a full retail-banking assistant.
-
-<a href="https://hello.rasa.com/go?repo=rasa-customers/starterpack-retail-banking-en"><img alt="Launch on Hello Rasa" src="https://img.shields.io/badge/%E2%9A%A1%20Launch%20on%20Hello%20Rasa-E85A91?style=for-the-badge"></a>
-
-[![View code](https://img.shields.io/badge/View%20code-181210?style=for-the-badge&logo=github&logoColor=FAF6F0)](https://github.com/rasa-customers/starterpack-retail-banking-en#gh-light-mode-only)[![View code](https://img.shields.io/badge/View%20code-FAF6F0?style=for-the-badge&logo=github&logoColor=181210)](https://github.com/rasa-customers/starterpack-retail-banking-en#gh-dark-mode-only)
+[**Explore the code →**](https://github.com/RasaHQ/rasa-community-resources/tree/main/examples/mantle-voice-banking-skills)
 
 </td>
-<td align="center" valign="top" width="33%">
+<td valign="top" width="33%">
 
-<img alt="Telecommunications" src="https://img.shields.io/badge/TELECOMMUNICATIONS-C8B7E7?style=flat-square">
+### Telecom
+**Telano**
 
-### 📶 Telecom
+Explore connectivity troubleshooting and billing conversations with simulated service tools.
 
-**Troubleshoot slow internet** with live diagnostics and **explain & manage bills**, with human-agent handoff.
+[**Explore the code →**](https://github.com/RasaHQ/rasa-community-resources/tree/main/examples/mantle-voice-telco-skills)
 
-<a href="https://hello.rasa.com/go?repo=rasa-customers/starterpack-telco-en"><img alt="Launch on Hello Rasa" src="https://img.shields.io/badge/%E2%9A%A1%20Launch%20on%20Hello%20Rasa-E85A91?style=for-the-badge"></a>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
-[![View code](https://img.shields.io/badge/View%20code-181210?style=for-the-badge&logo=github&logoColor=FAF6F0)](https://github.com/rasa-customers/starterpack-telco-en#gh-light-mode-only)[![View code](https://img.shields.io/badge/View%20code-FAF6F0?style=for-the-badge&logo=github&logoColor=181210)](https://github.com/rasa-customers/starterpack-telco-en#gh-dark-mode-only)
+### Travel
+**Atlas tutorial**
+
+Follow a voice-agent tutorial connecting travel skills and tools.
+
+[**Explore the tutorial code →**](https://github.com/RasaHQ/rasa-community-resources/tree/main/tutorials/rasa-voice-agent-tutorial)
+
+</td>
+<td valign="top" width="33%">
+
+### Appointments
+**Schedora**
+
+Explore clinic appointment booking, contact management, and common questions.
+
+[**Explore the code →**](https://github.com/RasaHQ/rasa-community-resources/tree/main/examples/mantle-voice-appointment-skills)
+
+</td>
+<td valign="top" width="33%">
+
+### Automotive
+**Autono**
+
+Explore vehicle searches, reservations, dealer visits, and financing quotes.
+
+[**Explore the code →**](https://github.com/RasaHQ/rasa-community-resources/tree/main/examples/mantle-voice-car-purchase-skills)
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
 
-## 🧰 What you'll need
+**[See all builds in the community showcase →](https://rasa.community/showcase/)**
 
-To run a starter pack locally you'll need:
+</div>
 
-- 🔑 A **free [Rasa Developer Edition license](https://rasa.com/rasa-pro-developer-edition-license-key-request)**
-- 🤖 An **OpenAI API key** (the default model provider — Rasa supports other LLMs too)
-- 🐍 **Python** *or* 🐳 **[Docker](https://docs.docker.com/get-started/)** to run it locally — *or skip both and use [Hello Rasa](https://hello.rasa.com/) in the browser*
+## Run, inspect, customize
 
-Each starter pack's README has step-by-step macOS, Linux, and Windows instructions.
+1. **Choose an example.** Open its README and follow its setup instructions and version requirements.
+2. **Configure your environment.** Have your [Rasa Developer Edition license](https://rasa.com/rasa-pro-developer-edition-license-key-request) and the model or speech credentials required by that example ready.
+3. **Run and inspect.** Try the sample conversations and examine how skills call tools.
+4. **Make it yours.** Adapt the skills and integrations, then test your own scenarios.
 
----
+> These are learning examples with sample data and tools. Review each repository’s license and runtime requirements, and adapt and validate the implementation before using it with customers.
 
-## 📚 New to Rasa?
+## Learn and build with Rasa Community
 
-- 📖 [**Read the docs**](https://rasa.com/docs/) — guides, references, and tutorials
-- 🎓 [**Rasa University**](https://hellorasa.info/45cWitR) — courses and certifications to level up your Rasa skills
+| Resource | What you’ll find |
+| --- | --- |
+| [**Quickstart**](https://rasa.community/quickstart/) | A guided first project. |
+| [**Showcase**](https://rasa.community/showcase/) | Example agents and starter packs to explore. |
+| [**Library**](https://rasa.community/library/) | Practical guides and tutorials. |
+| [**Office hours**](https://rasa.community/office-hours/) | A place to bring questions about your build. |
+| [**Join the community**](https://rasa.community/join/) | Connect with other builders and the Rasa team. |
+| [**Contribute**](https://rasa.community/contribute/) | Share examples, improve documentation, and help others. |
+
+## Looking for the original CALM starter packs?
+
+The earlier industry packs remain available for teams working with CALM. Follow their individual READMEs; they use a different architecture from the Mantle examples above.
+
+[Insurance](https://github.com/rasa-customers/starterpack-insurance-en) · [Retail banking](https://github.com/rasa-customers/starterpack-retail-banking-en) · [Telecom](https://github.com/rasa-customers/starterpack-telco-en)
 
 ---
 
 <div align="center">
 
-### Ready to build something real?
+### What will you build next?
 
-<a href="https://rasa.com/connect-with-rasa"><img alt="Book a demo" src="https://img.shields.io/badge/%F0%9F%93%85%20Book%20a%20demo-E85A91?style=for-the-badge"></a>
-&nbsp;&nbsp;
-[![Read the docs](https://img.shields.io/badge/%F0%9F%93%96%20Read%20the%20docs-181210?style=for-the-badge)](https://rasa.com/docs/#gh-light-mode-only)[![Read the docs](https://img.shields.io/badge/%F0%9F%93%96%20Read%20the%20docs-FAF6F0?style=for-the-badge)](https://rasa.com/docs/#gh-dark-mode-only)
+**[Start building](https://rasa.community/quickstart/)** · **[Read the Mantle docs](https://mantle.rasa.com/)** · **[Share your work](https://rasa.community/contribute/)**
 
-<sub>Built with ❤️ by the Rasa team · <a href="https://rasa.com/">rasa.com</a> · <a href="https://discord.gg/rwhHg9PZBv">Discord community</a></sub>
+<sub>Built with Rasa · <a href="https://rasa.com/">rasa.com</a> · <a href="https://rasa.community/">rasa.community</a></sub>
 
 </div>
